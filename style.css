@@ -1,0 +1,8 @@
+input{
+    font-size: 15px;
+}
+
+[type="button"]{
+    font-size: 22px;
+    color:darkorange !important;
+}
